@@ -1,4 +1,4 @@
-interface Name {
+ export interface Name {
     id: number;
     name: string;
     gender: Gender;
